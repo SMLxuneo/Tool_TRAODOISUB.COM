@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --console --icon "C:/Users/Nguyen Hoa/Downloads/tool_update/eye.ico"  "C:/Users/Nguyen Hoa/Downloads/tool_update/Tool_TRAODOISUB.COM.py"
